@@ -1,6 +1,6 @@
-# 📅 Datepicker UI
+# Datepicker UI
 
-## 🚀 Preview
+## Preview
 
 This project recreates a custom calendar interface with:
 
@@ -9,14 +9,14 @@ This project recreates a custom calendar interface with:
 * Modern layout using Flexbox
 * Responsive and centered design
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3
 * Flexbox
 * Font Awesome Icons
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Datepicker-UI/
@@ -25,7 +25,7 @@ Datepicker-UI/
 │── README.md
 ```
 
-## 🎨 Features
+## Features
 
 * Centered layout
 * Custom styled calendar table
@@ -33,7 +33,7 @@ Datepicker-UI/
 * Clean and modern UI design
 * Organized and maintainable CSS
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Add JavaScript functionality
 * Dynamic month navigation
@@ -44,7 +44,7 @@ Datepicker-UI/
 https://lucarradore.github.io/Datepicker-UI/
 
 
-## 👩‍💻 Author
+## Author
 
 Lucrecia Carradore
 
