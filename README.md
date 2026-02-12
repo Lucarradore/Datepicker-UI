@@ -40,8 +40,9 @@ Datepicker-UI/
 * Date selection interaction
 * Mobile optimization enhancements
 
-## 🌏Live Demo
+## Live Demo
 https://lucarradore.github.io/Datepicker-UI/
+
 
 ## 👩‍💻 Author
 
