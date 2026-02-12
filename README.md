@@ -41,6 +41,7 @@ Datepicker-UI/
 * Mobile optimization enhancements
 
 ## Live Demo
+
 https://lucarradore.github.io/Datepicker-UI/
 
 
